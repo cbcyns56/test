@@ -1,0 +1,54 @@
+.container{
+    background-color: red;
+    height: 75px;
+    width: 100%;
+}
+#logo{
+color: aqua;
+font-size: 50px;
+align-items: center;
+}
+.menu{
+    float: right;
+    display: flex;
+}
+.container ul li{
+    text-decoration: none;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    color: yellow;
+    border: 2px solid black;
+    border-radius: 20px;
+
+}
+.sema1{
+    width: 33%;
+    background-color:blue;
+    text-align: left;}
+.sema2{
+    
+    text-align: center;
+    background-color: orange;
+
+}
+.sema3{
+    text-align: end;
+    background-color: brown;
+}
+.tablo{
+    border: 1px solid orange;
+    margin: 15px;
+    border-collapse: collapse;
+
+
+
+}
+.tablo th{
+    padding: 10px;
+    border: 1px solid black;
+}
+#baslık{
+    color: sienna;
+}
